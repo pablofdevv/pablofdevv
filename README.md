@@ -1,179 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pablo+%F0%9F%91%8B;SMR+Student+%7C+Full+Stack+Dev;Web+%C2%B7+Systems+%C2%B7+Cybersecurity;Building+in+public+%E2%9C%A8" alt="Typing SVG" />
-</div>
+  <h1>Pablo Flores Carsi</h1>
+  <p><strong>Full-Stack Developer building modern web applications, scalable APIs, and secure systems.</strong></p>
 
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-PablooFf--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech)
-[![Focus](https://img.shields.io/badge/Focus-Full%20Stack-5865F2?style=for-the-badge&logo=react&logoColor=white)](#)
-[![Education](https://img.shields.io/badge/Education-SMR-0EA5E9?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-238636?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-
-</div>
-
----
-
-## 🧑‍💻 About me
-
-Hey! I'm **Pablo**, an **SMR student** and aspiring **Full Stack Developer**.  
-I enjoy turning ideas into clean, useful, and visually polished projects — from web apps to FiveM interfaces.
-
-I'm currently leveling up in:
-
-- 🌐 **Web development** — HTML, CSS, JavaScript and modern UI
-- 🖥️ **Systems & networking** — how real infrastructure works
-- 🔐 **Cybersecurity fundamentals** — secure and responsible practices
-- 🎮 **FiveM** — scripting, NUI and custom resources
-
-> I care about clear code, good design, and shipping things that actually work.
-
----
-
-## 🚀 What I do
-
-|  | Area | Focus |
-|:---:|:---|:---|
-| 🎨 | **Frontend & UI** | Clean layouts, responsive design, polished visuals |
-| ⚙️ | **Backend & Logic** | APIs, databases, structured project architecture |
-| 📜 | **Lua / FiveM** | Resources, menus, HUDs and gameplay systems |
-| 🛠️ | **Systems** | Windows/Linux basics, networking, troubleshooting |
-| 🔒 | **Security mindset** | Safer configs, better habits, less risky downloads |
-
----
-
-## 🛠️ Tech stack
-
-### Languages & markup
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" alt="Languages" />
-</p>
-
-### Tools & workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord" alt="Tools" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
-</p>
-
----
-
-## 🎯 Current goals
-
-- [x] Build a clean and professional GitHub profile
-- [ ] Ship complete full-stack web projects
-- [ ] Improve frontend UI/UX quality
-- [ ] Strengthen backend, APIs and databases
-- [ ] Keep growing my FiveM scripting & NUI skills
-- [ ] Learn more about sysadmin, networking and security
-
----
-
-## 📌 Featured interests
-
-✨ Web design & UI development  
-🧩 Full Stack learning path  
-🎮 FiveM scripting & customization  
-📡 Networking & system administration  
-🛡️ Cybersecurity fundamentals  
-📦 Clean docs, portfolios and product presentation
-
----
-
-## 📂 Repositories
-
-<div align="center">
-
-[![All repos](https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech?tab=repositories)
-![Public repos](https://img.shields.io/badge/Public_repos-3-238636?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/PablooFf-tech?style=for-the-badge&logo=github&label=Followers&color=5865F2)
-
-</div>
-
-<br/>
-
-<!-- REPO-LIST:START -->
-<p align="center">
-  <a href="https://github.com/PablooFf-tech/PrimerRepositorio"><img src="https://img.shields.io/badge/GitHub-PrimerRepositorio-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="PrimerRepositorio" /></a>
-  <a href="https://github.com/PablooFf-tech/Test"><img src="https://img.shields.io/badge/GitHub-Test-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Test" /></a>
-</p>
-
-<!-- last sync: seeded · Action will refresh automatically -->
-<!-- REPO-LIST:END -->
-
-<p align="center">
-  <sub>🔄 Se actualiza solo cuando subes un repo público (Action diaria + manual)</sub>
-</p>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PablooFf-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooFf-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PablooFf-tech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
+  <p>
+    <a href="https://myportfollio.bid" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-myportfollio.bid-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/pablo-flores-carsi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-pablo--flores--carsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:pablo.florescarsi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🧭 Learning path
+### 🚀 Sobre mí
 
-| Stage | Focus | Status |
-|:---:|:---|:---|
-| 1️⃣ | Solid HTML / CSS / JS foundations | 🔄 In progress |
-| 2️⃣ | UI design systems & responsive layouts | 🔄 In progress |
-| 3️⃣ | Backend basics + MySQL | 🌱 Starting |
-| 4️⃣ | APIs and full project structure | 🌱 Starting |
-| 5️⃣ | FiveM advanced resources & polished NUI | 🔄 In progress |
-| 6️⃣ | Networking, sysadmin & security basics | 🌱 Starting |
+Desarrollador Full-Stack con base sólida en Microinformática, Redes (SMR) y Ciberseguridad. Enfocado en el desarrollo de aplicaciones web de alto rendimiento, interfaces limpias inspiradas en los estándares de Apple y arquitecturas agénticas asistidas por IA.
+
+- 📍 Ubicación: **Valencia, España 🇪🇸**
+- 🌐 Portfolio oficial: **[myportfollio.bid](https://myportfollio.bid)**
+- ⚡ Enfoque: **Frontend React/TS + Backend Node/APIs + Arquitectura Agéntica (MCP)**
 
 ---
 
-## 💡 How I like to work
+### 🛠️ Tech Stack
 
-- Prefer **practical projects** over endless theory
-- Aim for **clean, readable, maintainable** code
-- Care a lot about **visual quality** and UX details
-- Document things so future-me (and others) can use them
-- Keep learning every day — even with small improvements
+#### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
+</p>
+
+- **Core:** React 19, TypeScript, JavaScript (ES6+), HTML5 Semántico, CSS3 Moderno
+- **Styling & UI:** Tailwind CSS, PostCSS, Responsive Design, Design Systems
+
+#### ⚙️ Backend & Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend Stack" />
+</p>
+
+- **Servidor & Lógica:** Node.js, Express, Arquitectura REST API
+- **Persistencia:** MySQL (Modelado Relacional, SQL Avanzado), MongoDB (NoSQL)
+
+#### 🛡️ Herramientas, Infraestructura & Ciberseguridad
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,cloudflare,vercel,vscode" alt="Tools & Infra" />
+</p>
+
+- **DevOps & Despliegue:** Git, GitHub Actions, Vercel, Cloudflare (DNS, WAF, SSL), Docker
+- **Sistemas & Seguridad:** Linux / Bash, Redes LAN, Ciberseguridad Defensiva (OT/IT)
 
 ---
 
-## 📬 Connect
+### 🏅 Certificaciones Oficiales — Anthropic Claude Academy (11 Certificados)
+
+Acreditación oficial en desarrollo de sistemas agénticos, integración de APIs avanzadas y Model Context Protocol:
+
+| Credencial | Categoría | Emisor | Verificación |
+|:---|:---:|:---:|:---:|
+| **Claude: Tool Use with the Messages API** | Core API & Tools | Anthropic | [Verificar](https://academy.claude.com/verify/5999a03ae8b41d65d13df3be9325ee8f) |
+| **Introduction to Model Context Protocol (MCP)** | Protocolos | Anthropic | [Verificar](https://academy.claude.com/verify/05c17f373105e73be51cd65fd295712c) |
+| **Claude Cowork: Multi-Agent Workflows** | Agentes | Anthropic | [Verificar](https://academy.claude.com/verify/4c0cd3cd44a1613463c8be375ece9f26) |
+| **Claude Platform 101** | Plataforma | Anthropic | [Verificar](https://academy.claude.com/verify/06e0d45020571e6a4984e0803b955024) |
+| **Claude 101 & Prompt Engineering** | Fundamentos | Anthropic | [Verificar](https://academy.claude.com/verify/8f4fad8015a44714d02a0d4c4071b37c) |
+| **Claude in Action** | Aplicada | Anthropic | [Verificar](https://academy.claude.com/verify/f04f348d0ced0afcc76b43bb72b749cc) |
+| *Ver las 11 acreditaciones completas en [myportfollio.bid/#certificates](https://myportfollio.bid/#certificates)* | — | — | — |
+
+---
+
+### 📌 Proyectos Destacados
+
+- 🌐 **[Portfolio Profesional](https://myportfollio.bid)**: Web híbrida en producción con Vite 8, React 19, Tailwind CSS y diseño Apple.
+- 🔗 **[api-fitval](https://github.com/PablooFf-tech/api-fitval)**: API REST estructurada con persistencia de datos y validaciones.
+- 🔍 **[api-rastro](https://github.com/PablooFf-tech/api-rastro)**: Servicio backend para rastreo y procesamiento de datos.
+- 🗄️ **[sql-gimnasio](https://github.com/PablooFf-tech/sql-gimnasio)**: Diseño relacional de base de datos, consultas complejas e integridad referencial.
+- 🔐 **[auth-login-template](https://github.com/PablooFf-tech/auth-login-template)**: Flujo de autenticación seguro con interfaz de usuario pulida.
+- 🚀 **[ZyraStoreVercel](https://github.com/PablooFf-tech/ZyraStoreVercel)**: Plataforma desplegada en producción orientada a rendimiento y conversión.
+
+---
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PablooFf-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=181A1B&title_color=58A6FF&icon_color=0071E3&text_color=E6EDF3" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooFf-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=181A1B&title_color=58A6FF&text_color=E6EDF3" alt="Top Languages" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/Follow-PablooFf--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech)
-
-**Open to collabs on web, UI and FiveM projects.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PablooFf-tech&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-*Learning, building, and improving every day.* ✨
-
+<div align="center">
+  <sub>Desarrollado y mantenido por <strong>Pablo Flores Carsi</strong> · Valencia, España</sub>
 </div>
