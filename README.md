@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Portfolio-myportfollio.bid-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/pablo-flores-carsi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Pablo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-pablo--flores--carsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:pablo.florescarsi@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -19,11 +19,11 @@
 
 ### 🚀 About Me
 
-Full-Stack Developer with a solid foundation in Computer Systems, Networking (SMR), and Cybersecurity. Focused on building high-performance web applications, clean interfaces inspired by Apple's design standards, and AI-assisted agentic architectures.
+Full‑Stack Developer with a solid foundation in micro‑computing, networking (SMR) and cybersecurity. I focus on building high‑performance web apps, clean UI inspired by Apple design, and agentic architectures powered by AI.
 
-- 📍 Location: Valencia, Spain 🇪🇸
-- 🌐 Official portfolio: [myportfollio.bid](https://myportfollio.bid)
-- ⚡ Focus: React/TS Frontend + Node/APIs Backend + Agentic Architecture (MCP)
+- 📍 Location: **Valencia, Spain 🇪🇸**
+- 🌐 Official portfolio: **[myportfollio.bid](https://myportfollio.bid)**
+- ⚡ Focus: **React/TS Frontend • Node.js/Express Backend • AI‑agentic (MCP) integration**
 
 ---
 
@@ -34,51 +34,51 @@ Full-Stack Developer with a solid foundation in Computer Systems, Networking (SM
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
 </p>
 
-- Core: React 19, TypeScript, JavaScript (ES6+), Semantic HTML5, Modern CSS3
-- Styling & UI: Tailwind CSS, PostCSS, Responsive Design, Design Systems
+- **Core:** React 19, TypeScript, modern JavaScript (ES6+), HTML5, CSS3
+- **Styling & UI:** Tailwind CSS, PostCSS, responsive design, design systems
 
 #### ⚙️ Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend Stack" />
 </p>
 
-- Server & Logic: Node.js, Express, REST API Architecture
-- Data Persistence: MySQL (Relational Modeling, Advanced SQL), MongoDB (NoSQL)
+- **Server & Logic:** Node.js, Express, RESTful APIs
+- **Persistence:** MySQL (relational), MongoDB (NoSQL)
 
-#### 🛡️ Tools, Infrastructure & Cybersecurity
+#### 🛡️ Tools, Infra & Security
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,cloudflare,vercel,vscode" alt="Tools & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,cloudflare,vercel,vscode" alt="Tools & Infra" />
 </p>
 
-- DevOps & Deployment: Git, GitHub Actions, Vercel, Cloudflare (DNS, WAF, SSL), Docker
-- Systems & Security: Linux / Bash, LAN Networking, Defensive Cybersecurity (OT/IT)
+- **DevOps & Deployment:** Git, GitHub Actions, Vercel, Cloudflare (DNS, WAF, SSL), Docker
+- **Systems & Security:** Linux/Bash, networking, defensive cybersecurity (OT/IT)
 
 ---
 
-### 🏅 Official Certifications — Anthropic Claude Academy (11 Certificates)
+### 🏅 Official Certifications – Anthropic Claude Academy (11)
 
-Official credentials in agentic systems development, advanced API integration, and Model Context Protocol:
+Official accreditation in agentic system development, advanced API integration, and Model Context Protocol:
 
-| Credential | Category | Issuer | Verification |
+| Credential | Category | Issuer | Verify |
 |:---|:---:|:---:|:---:|
-| Claude: Tool Use with the Messages API | Core API & Tools | Anthropic | [Verify](https://academy.claude.com/verify/5999a03ae8b41d65d13df3be9325ee8f) |
-| Introduction to Model Context Protocol (MCP) | Protocols | Anthropic | [Verify](https://academy.claude.com/verify/05c17f373105e73be51cd65fd295712c) |
-| Claude Cowork: Multi-Agent Workflows | Agents | Anthropic | [Verify](https://academy.claude.com/verify/4c0cd3cd44a1613463c8be375ece9f26) |
-| Claude Platform 101 | Platform | Anthropic | [Verify](https://academy.claude.com/verify/06e0d45020571e6a4984e0803b955024) |
-| Claude 101 & Prompt Engineering | Fundamentals | Anthropic | [Verify](https://academy.claude.com/verify/8f4fad8015a44714d02a0d4c4071b37c) |
-| Claude in Action | Applied AI | Anthropic | [Verify](https://academy.claude.com/verify/f04f348d0ced0afcc76b43bb72b749cc) |
-| *View all 11 credentials at [myportfollio.bid/#certificates](https://myportfollio.bid/#certificates)* | — | — | — |
+| **Claude: Tool Use with the Messages API** | Core API & Tools | Anthropic | [Verify](https://academy.claude.com/verify/5999a03ae8b41d65d13df3be9325ee8f) |
+| **Introduction to Model Context Protocol (MCP)** | Protocols | Anthropic | [Verify](https://academy.claude.com/verify/05c17f373105e73be51cd65fd295712c) |
+| **Claude Cowork: Multi‑Agent Workflows** | Agents | Anthropic | [Verify](https://academy.claude.com/verify/4c0cd3cd44a1613463c8be375ece9f26) |
+| **Claude Platform 101** | Platform | Anthropic | [Verify](https://academy.claude.com/verify/06e0d45020571e6a4984e0803b955024) |
+| **Claude 101 & Prompt Engineering** | Fundamentals | Anthropic | [Verify](https://academy.claude.com/verify/8f4fad8015a44714d02a0d4c4071b37c) |
+| **Claude in Action** | Applied | Anthropic | [Verify](https://academy.claude.com/verify/f04f348d0ced0afcc76b43bb72b749cc) |
+| *See all 11 certifications on the portfolio* | — | — | — |
 
 ---
 
 ### 📌 Featured Projects
 
-- 🌐 [Professional Portfolio](https://myportfollio.bid): Production-ready hybrid website built with Vite 8, React 19, Tailwind CSS, and Apple-inspired design.
-- 🔗 [api-fitval](https://github.com/PablooFf-tech/api-fitval): Structured REST API with data persistence and validation.
-- 🔍 [api-rastro](https://github.com/PablooFf-tech/api-rastro): Backend service for data tracking and processing.
-- 🗄️ [sql-gimnasio](https://github.com/PablooFf-tech/sql-gimnasio): Relational database design, complex queries, and referential integrity.
-- 🔐 [auth-login-template](https://github.com/PablooFf-tech/auth-login-template): Secure authentication flow with a polished user interface.
-- 🚀 [ZyraStoreVercel](https://github.com/PablooFf-tech/ZyraStoreVercel): Production-deployed platform focused on performance and conversion.
+- 🌐 **[Professional Portfolio](https://myportfollio.bid)** – Hybrid web app with Vite 8, React 19, Tailwind CSS and Apple‑inspired UI.
+- 🔗 **[api-fitval](https://github.com/PablooFf-tech/api-fitval)** – Structured REST API with data validation.
+- 🔍 **[api-rastro](https://github.com/PablooFf-tech/api-rastro)** – Backend service for data tracking.
+- 🗄️ **[sql-gimnasio](https://github.com/PablooFf-tech/sql-gimnasio)** – Relational DB design, complex queries, referential integrity.
+- 🔐 **[auth-login-template](https://github.com/PablooFf-tech/auth-login-template)** – Secure authentication flow with polished UI.
+- 🚀 **[ZyraStoreVercel](https://github.com/PablooFf-tech/ZyraStoreVercel)** – Production‑ready web platform.
 
 ---
 
